@@ -1,0 +1,16 @@
+server_timeout: 600           
+server_max_workers: 64        
+
+batch_size: 32                
+split: "test"                 
+max_steps: 10                  
+debug: false                  
+
+use_wandb: false
+wandb_project: "Inference-Benchmark"
+val_generations_to_log_to_wandb: 8
+
+skip_generation: false
+use_cached_results: false
+cached_results_path: null
+server_url: "http://localhost:5000"

@@ -1,0 +1,14 @@
+env1:
+    env_name: hstar  
+    env_config:
+        render_mode: vision
+        prompt_format: free_think
+        data_path: /path/to/your/dataset
+        use_state_reward: false
+        traj_success_reward: 0.5
+        traj_fail_penalty: 0
+        format_reward: 0.5
+        resolution: 720
+
+    train_size: 3200  
+    test_size: 32

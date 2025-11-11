@@ -1,0 +1,10 @@
+env1:
+    env_name: hstar  
+    env_config:
+        render_mode: vision
+        prompt_format: free_think
+        use_state_reward: false
+        data_path: /path/to/your/hos/dataset/split
+        resolution: 1080
+    train_size: 2400 
+    test_size: 2400

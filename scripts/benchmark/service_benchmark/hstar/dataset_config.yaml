@@ -1,0 +1,6 @@
+hstar:
+  env_name: hstar
+  env_config:
+    render_mode: vision
+  train_size: 200
+  test_size: 16
