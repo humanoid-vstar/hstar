@@ -127,3 +127,16 @@ Use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory.git) and our SFT da
 - [VAGEN](https://github.com/mll-lab-nu/VAGEN.git): VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents
 
 - [verl](https://github.com/volcengine/verl.git): Volcano Engine Reinforcement Learning for LLM
+
+## Citation
+```bibtex
+@misc{yu2025thinking360deghumanoidvisual,
+      title={Thinking in 360{\deg}: Humanoid Visual Search in the Wild}, 
+      author={Heyang Yu and Yinan Han and Xiangyu Zhang and Baiqiao Yin and Bowen Chang and Xiangyu Han and Xinhao Liu and Jing Zhang and Marco Pavone and Chen Feng and Saining Xie and Yiming Li},
+      year={2025},
+      eprint={2511.20351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.20351}, 
+}
+```
