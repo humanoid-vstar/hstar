@@ -5,12 +5,12 @@
         <div class="authors" style="text-align: center; margin-bottom: 1rem;">
             <div style="margin-bottom: 0.5rem;">
                 <a href="https://scholar.google.com/citations?user=GVI6jVsAAAAJ&hl=en" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Heyang Yu</span></a><sup>1*</sup>,
-                <span class="author-name">Yinan Han</span><sup>3*</sup>,
+                <a href="" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Yinan Han</span></a><sup>3*</sup>,
                 <a href="https://painkillerzzz.github.io/xiangyu_zhang.github.io/" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Xiangyu Zhang</span></a><sup>4</sup>,
                 <a href="https://yyyybq.github.io/BaiqiaoYIN.github.io/" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Baiqiao Yin</span></a><sup>1</sup>,
-                <span class="author-name">Bowen Chang</span><sup>1</sup>,
+                <a href="" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Bowen Chang</span></a><sup>1</sup>,
                 <a href="https://han-xiangyu.github.io/" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Xiangyu Han</span></a><sup>1</sup>,
-                <span class="author-name">Xinhao Liu</span><sup>1</sup>,
+                <a href="https://gaaaavin.github.io/" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Xinhao Liu</span></a><sup>1</sup>,
                 <a href="https://jingz6676.github.io/" target="_blank" style="color: inherit; text-decoration: none !important;"><span class="author-name">Jing Zhang</span></a><sup>1</sup>
             </div>
             <div>
