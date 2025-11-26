@@ -1,5 +1,5 @@
 # *Thinking in 360°*: Humanoid Visual Search in the Wild
-
+![teaser](assets/teaserv4.png)
 [Paper](https://arxiv.org/abs/2511.20351) | [Page](https://humanoid-vstar.github.io/) | [Model](https://huggingface.co/collections/humanoid-vstar/hvs-models) | [Dataset](https://huggingface.co/collections/humanoid-vstar/hvs-train-datasets) | [Benchmark](https://huggingface.co/datasets/humanoid-vstar/hstar_bench)
 ## Getting Started
 
