@@ -119,7 +119,7 @@ Use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory.git) and our SFT da
 
 ## Benchmarking
 * Download our [hstar_bench](https://huggingface.co/datasets/humanoid-vstar/hstar_bench) dataset.
-* Change your downloaded dataset path (2 task splits) in the [`scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml`](scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml) and [`scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml`](scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml).
+* Change your downloaded dataset path (2 task splits) in the [`scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml`](scripts/examples/masked_grpo/hstar/free_think/hos_val_config.yaml) and [`scripts/examples/masked_grpo/hstar/free_think/hps_val_config.yaml`](scripts/examples/masked_grpo/hstar/free_think/hps_val_config.yaml).
   ```yaml
   env1:
     env_name: hstar  
