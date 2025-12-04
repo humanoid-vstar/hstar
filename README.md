@@ -64,7 +64,8 @@ Set up the [VAGEN](https://github.com/mll-lab-nu/VAGEN) environment for training
 ```bash
 conda create -n vagen python=3.10
 conda activate vagen
-git clone https://github.com/JamesKrW/verl.git
+git clone --recursive https://github.com/humanoid-vstar/hstar.git
+cd hstar
 cd verl && pip install -e .
 cd ..
 bash scripts/install.sh
