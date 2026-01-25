@@ -84,9 +84,8 @@ def main():
     args = parse_args()
     if os.path.exists(args.output_dir) is False:
         os.makedirs(args.output_dir)
-    if args.save_all_results:
-        if os.path.exists(f"{args.output_dir}/result_images") is False:
-            os.makedirs(f"{args.output_dir}/result_images")
+    if os.path.exists(f"{args.output_dir}/result_images") is False:
+        os.makedirs(f"{args.output_dir}/result_images")
     # Load configurations
     inference_config = load_yaml_config(args.inference_config_path)
     model_config = load_yaml_config(args.model_config_path)
