@@ -77,6 +77,7 @@ conda create -n hstar python=3.10
 conda activate hstar
 cd vagen/inference && pip install -r requirements.txt # This env is build for CUDA 12 and torch 2.7.1
 # You need to adjust the environment to adapt your machine.
+# for new models, use a vllm env to deploy
 cd ../..
 cd verl && pip install -e . --no-deps
 cd .. && pip install -e .

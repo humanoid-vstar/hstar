@@ -230,7 +230,7 @@ class HstarEnv(BaseEnv):
         info = {}
         info.update(rst)
         self._current_step += 1
-        if metrics["turn_metrics"]["action_is_valid"] and rst.get("format_correct", True): 
+        if metrics["turn_metrics"]["action_is_valid"]: 
             action = rst["actions"][0] 
             try:
                 if action.startswith("rotate"):
