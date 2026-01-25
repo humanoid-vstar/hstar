@@ -49,6 +49,7 @@ class InferenceRolloutService(BaseRollout):
         self.split = split
         self.debug = debug
         self.output_dir = output_dir
+        os.mkdir(f"{self.output_dir}/result_images", exist_ok=True)
         # Initialize environment client
         self.env_client = BatchEnvClient(
             base_url=base_url,
